@@ -1,4 +1,3 @@
-from server import mcp
 from typing import Any, Dict, List
 import docker
 
